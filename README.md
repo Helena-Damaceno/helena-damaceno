@@ -28,3 +28,8 @@
 - 🎮 Desenvolvimento de jogos
 - 🎨 Desenho
 - 📻 Coisas vintage
+
+---
+
+## ✦ Linkedin
+💼 https://www.linkedin.com/in/helena-damaceno-0b1761361/
