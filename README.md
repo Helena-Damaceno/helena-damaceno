@@ -1,6 +1,6 @@
 # ✦ Olá!!
 
-- Estudante do Técnico em Desenvolvimento de Sistemas no IFSul 💻
+- Estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas no IFSul 💻
 - Geração Caldeira 2026 - IA e Dados 💚
 - Aprendendo, criando e sempre experimentando coisas novas ✨
 - Vivendo de música velha e projetos novos 🎧
