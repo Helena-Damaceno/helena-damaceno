@@ -25,7 +25,6 @@
 ## ✦ Interesses
 
 - 💻 Programação
-- 🎮 Desenvolvimento de jogos
 - 🎨 Desenho
 - 📻 Coisas vintage
 
