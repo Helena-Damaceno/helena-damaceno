@@ -22,6 +22,14 @@
 
 ---
 
+## ✦ Linguagens mais usadas
+
+<p align="left">
+  <img src="https://vercel.app" alt="Top Langs" />
+</p>
+
+---
+
 ## ✦ Interesses
 
 - 💻 Programação
