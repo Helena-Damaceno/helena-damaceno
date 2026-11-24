@@ -24,10 +24,7 @@
 
 ## ✦ Linguagens mais usadas
 
-<p align="left">
-  <img src="https://vercel.app" alt="Top Langs" />
-</p>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
 ---
 
 ## ✦ Interesses
