@@ -2,8 +2,6 @@
 
 - Estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas no IFSul 💻
 - Geração Caldeira 2026 - IA e Dados 💚
-- Aprendendo, criando e sempre experimentando coisas novas ✨
-- Vivendo de música velha e projetos novos 🎧
 
 ---
 
@@ -18,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
-`HTML` · `CSS` · `JavaScript` · `Python` · `Java` · `MySQL`
+`HTML` · `CSS` · `JavaScript` · `Python` · `Java` · `SQL`
 
 ---
 
